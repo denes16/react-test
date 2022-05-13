@@ -1,0 +1,13 @@
+.titleContainer {
+    padding: 0.5rem;
+    text-align: center;
+}
+.recipesListContainer {
+    padding: 0.5rem;
+    display: flex;
+    flex-wrap: wrap;
+}
+.recipesListItem {
+    width: 33%;
+    margin-bottom: 0.5rem;
+}
